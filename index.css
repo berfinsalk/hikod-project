@@ -1,0 +1,63 @@
+
+.container{
+    text-align: center;
+}
+.baslik{
+    font-size: xx-large;
+}
+.collapse{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.card1:hover {                /* görselin üzerine gelinince büyütmek*/                        
+    -ms-transform: scale(1.1); /* IE 9 */
+    -webkit-transform: scale(1.1); /* Safari 3-8 */
+     transform: scale(1.1); 
+   }
+
+.onsoz{
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-align: center;
+margin-left: 0px;
+margin-top: 5px;
+} 
+.vurgu{
+    color: rgb(132, 5, 229);
+    font-weight: bold;
+    font-size: xxx-large;
+}
+
+h5{
+    text-align: left;
+}
+p{
+    text-align: justify;
+}
+.card-img{
+    opacity: 0.5;  /* görseli bulanıklaştırma*/
+}
+.main2{
+    color: rgba(126, 10, 220, 0.929);
+
+}
+.main{
+    color: rgb(79, 36, 140);
+}
+.bg{
+    background-color: rgba(125, 136, 174, 0.909);
+}
+.bg1{
+    background-color: rgba(130, 146, 196, 0.97);
+}
+.end{
+    background-color: rgb(116, 127, 171);
+}
+.end-text{
+    text-align: center;
+   
+}
+
+.birinci{
+    width: 100%;
+}
